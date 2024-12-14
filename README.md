@@ -1,3 +1,3 @@
 # playgrounds
 
-Monorepo for my playgrounds ;)
+Monorepo for my playgrounds.
